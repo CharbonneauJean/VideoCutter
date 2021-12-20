@@ -1,0 +1,5 @@
+python jumpcutter.py --input_file test.mp4 --output_file test_new.mp4 --sounded_speed 1.6 --silent_speed 999999
+
+python jumpcutter.py --silent_speed 999999 --url https://www.youtube.com/watch?v=2XvkiMMOLkM --frame_rate 25 --output_file test_new.mp4
+
+python jumpcutter.py --url https://www.youtube.com/watch?v=2XvkiMMOLkM -ouput
